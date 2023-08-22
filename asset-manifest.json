@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CoinCap-Hosting/static/css/main.d1fcc30f.css",
-    "main.js": "/CoinCap-Hosting/static/js/main.d9340371.js",
+    "main.js": "/CoinCap-Hosting/static/js/main.18372b20.js",
     "static/js/787.8cd0aabc.chunk.js": "/CoinCap-Hosting/static/js/787.8cd0aabc.chunk.js",
     "index.html": "/CoinCap-Hosting/index.html",
     "main.d1fcc30f.css.map": "/CoinCap-Hosting/static/css/main.d1fcc30f.css.map",
-    "main.d9340371.js.map": "/CoinCap-Hosting/static/js/main.d9340371.js.map",
+    "main.18372b20.js.map": "/CoinCap-Hosting/static/js/main.18372b20.js.map",
     "787.8cd0aabc.chunk.js.map": "/CoinCap-Hosting/static/js/787.8cd0aabc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1fcc30f.css",
-    "static/js/main.d9340371.js"
+    "static/js/main.18372b20.js"
   ]
 }
